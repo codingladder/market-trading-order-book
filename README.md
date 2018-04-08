@@ -1,3 +1,3 @@
-# Market Order Simulation
+# Market Trading Order Simulation
 
-C++ order book basic simulation to read an order file and update the order book
+C++ order book basic simulation to read market orders and update the trading order book
